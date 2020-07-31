@@ -2,7 +2,7 @@
 $this->load->view('templates/header');
 ?>
 <style>
-    .dataTables_filter { display: none; }
+    /* .dataTables_filter { display: none; } */
     .dataTables_wrapper .dt-buttons {
         float:right;
         text-align:center;
@@ -38,7 +38,7 @@ $this->load->view('templates/header');
                     <tr>
                         <th scope="col">#</th>
                         <th scope="col">Title</th>
-                        <th scope="col">Comment</th>
+                        <th scope="col">Content</th>
                         <th scope="col">Action</th>
                     </tr>
                 </thead>

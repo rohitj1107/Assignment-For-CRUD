@@ -4,7 +4,7 @@
         <form id="add-staff-form" method="post">
             <div class="modal-content panel panel-primary">
                 <div class="modal-header panel-heading">
-                    <h4 class="modal-title -remove-title">Add Staff</h4>
+                    <h4 class="modal-title -remove-title">Add DATA</h4>
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
                 <div class="modal-body panel-body">

@@ -15,7 +15,7 @@
     <div class="row">
         <div class="col-lg-6">
             <div class="form-group">
-                <input type="text" name="content" class="form-control input-staff-content" id="content" placeholder="content" value="<?php print $content; ?>">
+                <textarea name="content" class="form-control input-staff-content" id="content" placeholder="content" ><?php print $content; ?></textarea>
             </div>
         </div>
     </div>
